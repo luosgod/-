@@ -1,2 +1,2 @@
 # item
-Config files for my GitHub profile.
+项目描述.
